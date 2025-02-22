@@ -16,7 +16,7 @@ int main()
     scanf("%f", &nota4);
     printf("A media das suas quatro notas são de: %f", (nota1+nota2+nota3+nota4)/4);*/
 
-    /*Exercicio3*/
+    /*Exercicio3
     float valor1,valor2;
     printf("Digite dois numeros\n");
     scanf("%f", &valor1);
@@ -24,7 +24,7 @@ int main()
     printf("A soma e de: %f \n", (valor1+valor2));
     printf("O produto e de: %f \n", (valor1*valor2));
     printf("A diferenca e de: %f \n", (valor1-valor2));
-    printf("O quociente e de: %f \n", (valor1/valor2));
+    printf("O quociente e de: %f \n", (valor1/valor2));*/
 
     /* Exercicio4
     float fare;
